@@ -9,7 +9,6 @@ int exp=0;
 
 
 
-
 int main(){
 	cout << "Welcome to Edoc-Margorp game!" << endl;
 	
@@ -19,7 +18,10 @@ int main(){
 	cin >> candy;
 	
 	do{
-		if{
+		candy/12= b;
+		candy%12= ncandy;
+		
+		
 		
 		
 		
